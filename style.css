@@ -826,7 +826,7 @@ iframe{
 .bypostauthor {
 }
 .hentry {
-	margin: 0 0 1.5em;
+	margin: 0 0 3.5em;
 }
 .single-post .hentry {
     margin: 0 0 1.5em;
@@ -2171,7 +2171,7 @@ ul.shortcode-archive li {
 	}
 }
 .page-template-template-portfolio .grid .entry-thumbnail img {
-	width:100%;
+	min-width:500;
 	transition:all 0.4s;
 }
 .page-template-template-portfolio .grid .entry-thumbnail img:hover {
